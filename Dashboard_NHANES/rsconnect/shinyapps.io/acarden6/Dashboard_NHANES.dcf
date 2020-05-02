@@ -1,0 +1,13 @@
+name: Dashboard_NHANES
+title: Dashboard_NHANES
+username:
+account: acarden6
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2024790
+bundleId: 3093455
+url: https://acarden6.shinyapps.io/Dashboard_NHANES/
+when: 1588420600.43175
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
